@@ -7,4 +7,4 @@ ex_students.xlsx - файл с данными о студентах и пеше�
 
 presentation.pptx - презентация курсовой работы
 
-![contacts](https://github.com/IlyaKusakin/Coursework_cv_fixing/blob/master/images/contacts.jpg)
+![contacts](https://github.com/IlyaKusakin/Coursework_cv_fixing/blob/master/images/title.png)
