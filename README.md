@@ -6,3 +6,5 @@ launcher.py - скрипт приложения
 ex_students.xlsx - файл с данными о студентах и пешеходном переходе
 
 presentation.pptx - презентация курсовой работы
+
+![kek](https://github.com/IlyaKusakin/Coursework_cv_fixing/edit/master/images/title.png)
